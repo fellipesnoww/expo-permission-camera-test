@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "expo-permission-camera",
+    "slug": "expo-permission-camera",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "expo-permission-camera"
+}
